@@ -8,7 +8,7 @@ client.on('message', message => {
 if (message.content.startsWith(prefix + 's')) {
                                        message.delete()
   if (message.author.id !== '518620483764224001') return;
-client.user.setGame(argresult, "http://twitch.tv/y04zgamer");
+client.user.setGame(argresult, "http://twitch.tv/William");
     message.channel.sendMessage(`**\`${argresult}\` :تم تغيير الحالة الى**`).then(msg => {msg.delete(7000)});
 
     
