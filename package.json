@@ -1,7 +1,6 @@
-
 {
-  "name": "Your Name",
-  "description": "AnyThing",
+  "name": "7MO",
+  "description": "7MO",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
